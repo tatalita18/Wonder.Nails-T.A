@@ -295,10 +295,12 @@ nav ul li a {
     bottom: 90px;
   }
 
-  #cart-float {
-    width: 55px;
-    height: 55px;
-  }
+ #cart-float {
+  width: 55px;
+  height: 55px;
+  bottom: 70px;  /* mais alto no celular */
+  right: 20px;   /* não cola no canto */
+}
 }
 
 
@@ -908,3 +910,4 @@ footer {
 .product img:hover {
   transform: scale(1.08);
 }
+
