@@ -299,7 +299,7 @@ nav ul li a {
   width: 55px;
   height: 55px;
   bottom: 70px;  /* mais alto no celular */
-  right: 20px;   /* não cola no canto */
+  right: 30px;   /* não cola no canto */
 }
 }
 
@@ -910,4 +910,5 @@ footer {
 .product img:hover {
   transform: scale(1.08);
 }
+
 
